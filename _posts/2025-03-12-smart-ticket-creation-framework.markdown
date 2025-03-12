@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🧠 SMART Ticket Creation Framework"
-categories: software-development 
+categories: project-management
 ---
 
 ## Purpose
