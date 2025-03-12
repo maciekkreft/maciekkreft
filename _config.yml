@@ -1,0 +1,13 @@
+title: Software Development Blog
+email: "" 
+description: >- # this means to ignore newlines until "baseurl:"
+  Best Software Development practices 
+baseurl: "/maciekkreft" # the subpath of your site, e.g. /blog
+url: "https://maciekkreft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  maciekkreft
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
